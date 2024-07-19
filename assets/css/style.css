@@ -314,12 +314,12 @@ h3 {
 
 /* Original */
 
-/* #intro.section {
+#intro.section {
   background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
   position: relative;
 } */
 
-#intro.section {
+/*#intro.section {
   background: url(../../assets/img/4077186_17580.jpg) repeat;
   position: relative;
 }
