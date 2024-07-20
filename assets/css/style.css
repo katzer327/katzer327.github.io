@@ -598,6 +598,7 @@ small {
   }
   nav {
     background: #fff;
+    text-align:center
     height: 64px;
     position: absolute;
   }
