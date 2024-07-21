@@ -311,6 +311,9 @@ h3 {
 .full-height {
   height: 100vh;
 }
+.half-height {
+  height: 50vh;
+}
 
 /* Original */
 
@@ -322,11 +325,11 @@ h3 {
 #intro.section {
   background: #64998d repeat;
   position: relative;
+  section scrollspy full-height
 }
 
 #intro.section .container {
   color: white;
-  height:50%;
   font-weight: 200;
   left: 0;
   position: absolute;
