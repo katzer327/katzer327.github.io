@@ -723,12 +723,3 @@ small {
   width:  calc(var(--s)*var(--f));
   height: calc(var(--s)*var(--f));
 }
-
-
-body {
-  margin: 0;
-  min-height: 100vh;
-  display: grid;
-  place-content: center;
-  background: #60c4ff;
-}
