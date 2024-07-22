@@ -480,7 +480,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #2d004d !important;
 }
 
 #skills .card.large {
